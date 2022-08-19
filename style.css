@@ -1,0 +1,113 @@
+.titulo{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    color: rgb(3, 73, 3);
+    font-size: 50px;
+}
+.Paragrafo1{
+    font-size: larger;
+    color: black;
+}
+.titulo2{
+    position: relative;
+    color:rgb(4, 44, 4);
+    font-size: 35px;
+    left: 20px;
+    top: 20px;
+}
+.titulo3{
+    position: relative;
+    color:rgb(4, 44, 4);
+    font-size: 35px;
+    left: 20px;
+    top: 17px;
+}
+.titulo4{
+    position: relative;
+    color:rgb(4, 44, 4);
+    font-size: 35px;
+    left: 20px;
+    top: 20px;
+}
+.Paragrafo2{
+    font-size: larger;
+    color: whblackite;
+}
+.letras{
+    color: black;
+    font-size: larger;
+}
+.Paragrafo3{
+    color:black;
+    font-size: larger;
+}
+.box{
+    position: relative;
+    width: 1300px;
+    height: 100px;
+    background: rgb(68, 192, 11);       
+    bottom: 10px;
+    
+}
+.imagem{
+    position: relative;
+    bottom: 45px;
+    left: 438px;
+    top: 50px;
+}
+.Instagram{
+    position: relative;
+    bottom: 73px;
+    left: 1100px;
+    
+}
+.Pag{
+    position: relative;
+    font-size: larger;
+    bottom: 10px;
+    right: 140px;
+    color:rgb(4, 78, 4)
+}
+.logoInstagram{
+    position: relative;
+    bottom: 52px;
+    left: 55px;
+}
+.logoFacebook{
+    position: relative;
+    bottom: 82px;
+    right: -95px;
+}
+.box2{
+    position: relative;
+    width: 440px;
+    height: 80px;
+    background: rgb(68, 192, 11); 
+    border-radius: 50px;      
+}
+.box3{
+    position: relative;
+    width: 740px;
+    height: 80px;
+    background: rgb(68, 192, 11); 
+    border-radius: 50px; 
+}
+.box4{
+    position: relative;
+    width: 440px;
+    height: 80px;
+    background: rgb(68, 192, 11); 
+    border-radius: 50px;
+}
+.topicos{
+    position: relative;
+    color:rgb(0, 0, 0);
+    font-size: larger;
+    bottom: 162px;
+    left: 945px;    
+
+}
+.Site{
+    background-color: green;
+}
